@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/info"
+        android:title="Change account info"
+        android:icon="@drawable/ic_baseline_info_24"/>
+    <item android:title="Business sign up"
+        android:icon="@drawable/ic_baseline_business_24"/>
+    <item android:title="Digital Business Card"
+        android:icon="@drawable/ic_baseline_add_card_24"/>
+    <item android:title="Referrals"
+        android:icon="@drawable/ic_baseline_format_align_center_24"/>
+    <item android:title="Log out"
+        android:icon="@drawable/ic_baseline_login_24"/>
+</menu>
